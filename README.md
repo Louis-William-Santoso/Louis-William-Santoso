@@ -1,5 +1,6 @@
 # 💫 About Me:
-󱀋 Experience :<br>- Creative Design Department KSM-IF (Sep 2024 - Aug 2026)<br>- Technical Equipment MOB-FT 2025<br>- System Information ILPC 2026<br><br>󰣇 I use arch btw~
+󱀋 Experience :<br>- Creative Design Department KSM-IF (Sep 2024 - Aug 2026)<br>- Technical Equipment MOB-FT 2025<br>- System Information ILPC 2026<br>
+<br> <img src="https://www.svgrepo.com/show/341619/arch-linux.svg" style:"height:4px"/>I use arch btw~
 
 
 ## 🌐 Socials:
