@@ -1,5 +1,14 @@
 # 💫 About Me:
-🐱 Experience :<br>- Creative Design Department KSM-IF (Sep 2024 - Aug 2026)<br>- Technical Equipment MOB-FT 2025<br>- System Information ILPC 2026<br>
+🐱 Experience :
+- Creative Design Department KSM-IF UBAYA (Sep 2024 - Now)
+- Member of Design Decoration Documentation Informatics Gathering 2025
+- Member of Technical Equipment MOB-FT UBAYA 2025
+- Deputy Coordinator System Information ILPC UBAYA 2026
+- Coordinator Design Decoration Documentation Informatics Gathering 2026
+- Coordinator System Information ILPC UBAYA 2027
+- Event Chairman Study Club Informatics UBAYA 2026
+- Steering Committee Study Club 2027
+- Steering Committee Informatics Gathering 2027
 <br> ![](https://img.shields.io/badge/BTW-I--Use--Arch-blue?logo=arch-linux&style=flat-square)
 
 
